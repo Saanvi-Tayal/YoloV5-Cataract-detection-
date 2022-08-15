@@ -1,4 +1,0 @@
-0 cataract
-1 normal 
-2 glocuma 
-3 retina 
