@@ -53,5 +53,4 @@ for category in categories:
         with open(final_path_label, "w") as fh:
             fh.write(txt_data)
         
-        # For the time being
-        break
+
