@@ -1,0 +1,10 @@
+# Dataset paths relative to the yolov5 folder
+train: ../ila/images/train
+val:   ../ila/images/val
+test:  ../ila/images/test
+
+# Number of classes
+nc: 4
+
+# Class names 
+names: ['cataract', 'normal', 'glaucoma','retina_disease']
