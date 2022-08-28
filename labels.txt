@@ -1,1 +1,4 @@
 0 cataract
+1 normal
+2 glaucoma
+3 retina_disease
